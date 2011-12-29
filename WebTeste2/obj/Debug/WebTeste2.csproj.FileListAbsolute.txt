@@ -1,0 +1,5 @@
+C:\Source\TesteIC\WebTeste2\bin\WebTeste2.dll
+C:\Source\TesteIC\WebTeste2\bin\WebTeste2.pdb
+C:\Source\TesteIC\WebTeste2\obj\Debug\ResolveAssemblyReference.cache
+C:\Source\TesteIC\WebTeste2\obj\Debug\WebTeste2.dll
+C:\Source\TesteIC\WebTeste2\obj\Debug\WebTeste2.pdb
